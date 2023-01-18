@@ -11,4 +11,5 @@ int main() {
   { 
     int c3=a3+b3; 
      cout << i<<" liczba ciagu: " <<c3<< "\n";
+      a3=b3;
     }
