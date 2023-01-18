@@ -1,9 +1,9 @@
 #include <iostream>
-
+#include <math.h>
+#include <cstdlib>
 using namespace std;
 
-int main()
-{
-    cout << "hahaha mam cie" << endl;
-    return 0;
-}
+int main() {
+ int liczba3,a3=0,b3=1;
+
+    }
