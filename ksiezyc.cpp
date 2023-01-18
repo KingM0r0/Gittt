@@ -5,4 +5,3 @@ int main() {
 	cout << "Jest piątym co do wielkości księżycem w Układzie Słonecznym.";
  return 0;
 }
-
