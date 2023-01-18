@@ -1,2 +1,4 @@
 # Gittt
-Opis
+Opis został zmieniony
+
+
