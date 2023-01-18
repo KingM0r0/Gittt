@@ -10,4 +10,5 @@ int main() {
   for (int i = 1; i <= liczba3; i++)
   { 
     int c3=a3+b3; 
+     cout << i<<" liczba ciagu: " <<c3<< "\n";
     }
