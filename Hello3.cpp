@@ -8,4 +8,6 @@ int main() {
  cout << "podaj liczbe: ";
   cin >> liczba3; 
   for (int i = 1; i <= liczba3; i++)
+  { 
+    int c3=a3+b3; 
     }
